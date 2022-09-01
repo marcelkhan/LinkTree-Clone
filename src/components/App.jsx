@@ -6,7 +6,6 @@ import Footer from "./Footer";
 function App() {
   return (
     <div>
-      <Header />
       <Card />
       <Footer />
     </div>
